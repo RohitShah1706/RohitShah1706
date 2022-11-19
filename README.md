@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Rohit, a full-time full-stack freelance developer 👨‍💻</div>  
-  
+- 🕸️ CSE student at IIIT Bangalore.    
 
 - 🔭 I’m currently working on a DAPP built using Solidity, NEXTJS, Ethers.  
   
@@ -13,6 +13,8 @@
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
+
+- 👁️ Developer at Zense - IIITB.  
   
 
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug  
@@ -81,6 +83,9 @@
 
 <br/>  
 
+### 🎓 Organizations
+
+<a href="https://zense.co.in/"><img width="40px" height="40px" src="https://github.com/GSri30/GSri30/raw/main/zense.png"></a>
 
 ## Connect with me  
 <div align="center">
