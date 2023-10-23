@@ -1,6 +1,6 @@
-
-### <div align="center">I'm Rohit, a full-time full-stack(web 2.0/3.0) freelance developer 👨‍💻</div>  
-<br/>  
+<div align="center">
+  <h3>I'm Rohit, a highly motivated and enthusiastic Software Developer with experience in cutting edge tech like Full Stack, Machine Learning, Cloud Computing</h3>
+</div>
 
 - 🕸️ CSE student at IIIT Bangalore.    
 
